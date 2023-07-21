@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrNemi
-- 👀 I’m interested in books, anime, gaming, history and nature.
-- 🌱 Improving my knowledge on Python, SQL.
-- 💞️ Looking to collaborate on any cool projects that involve automation & embedded systems design.
+- 👀 I’m interested in reading novels, anime, gaming, technology, history, and nature.
+- 🌱 Improving my skills with Python, SQL, R and data analytics.
+- 💞️ Looking to collaborate on any cool projects that involve either data visualisation, automation, or embedded systems design.
 - 📫 How to reach me: Send an email to emmanuelombo95@gmail.com.
 
 <!---
