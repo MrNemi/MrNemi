@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MrNemi
-- 👀 I’m interested in reading novels, anime, gaming, technology, history, and nature.
+- 👋 Hi, I’m Manny
+- 👀 My interests include reading novels, watching anime, gaming, technology, history, and nature.
 - 🌱 Improving my skills with Python, SQL, R and data analytics.
 - 💞️ Looking to collaborate on any cool projects that involve either data visualisation, automation, or embedded systems design.
 - 📫 How to reach me: Send an email to emmanuelombo95@gmail.com.
